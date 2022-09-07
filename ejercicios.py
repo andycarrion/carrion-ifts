@@ -45,9 +45,9 @@ while v2 != v1:
 
 if v2 == 1:
     print("Suma: ", suma)
-else if v2 == 2:
+elif (v2 == 2):
     print("Resta: ", resta)
-if v2 == 3:
+else:
     print("Multiplicación: ", multi)
 
 
