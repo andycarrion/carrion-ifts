@@ -20,6 +20,13 @@ def area_rectangulo(base, altura):
 
 area_rectangulo(7, 10)
 
+## EJERCICIO 2 /////////////////////////////////////////////////
+
+def area_circulo(radio):
+    area_cir = 3.14159 * (radio * radio)
+    return area_cir
+
+area_circulo(9)
 
 if __name__ == '__main__':
     main()
