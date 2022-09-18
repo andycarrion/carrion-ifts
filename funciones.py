@@ -41,6 +41,13 @@ def relacion(nro1, nro2):
 
 relacion(2, 3)
 
+## EJERCICIO 4 /////////////////////////////////////////////////
+
+def intermedio(n1, n2):
+    int = (n1/2) + (n2/2)
+    return print(int)
+
+intermedio(10, 24)
 
 
 
