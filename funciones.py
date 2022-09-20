@@ -49,6 +49,21 @@ def intermedio(n1, n2):
 
 intermedio(10, 24)
 
+## EJERCICIO 5 /////////////////////////////////////////////////
+
+def recortar(rec, inf, sup):
+    if (rec < inf):
+        return print(inf)
+    elif (rec > sup):
+        return print(sup)
+    else:
+        return print(rec)
+
+recortar(5, 2, 7)
+
+
+
+
 
 
 
